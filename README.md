@@ -1,7 +1,6 @@
 <h1 align="center">Hola soy Lucas Giménez</h1>
 <h3 align="center">Desarrollador y programador Web JR / Trainee</h3>
 
-![Banner Git](https://esports.as.com/2019/08/22/league-of-legends/tacticas-maestras--tft/Aatrox-Buff_1275182479_245679_1024x576.jpg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirato1&label=Profile%20views&color=0e75b6&style=flat" alt="mirato1" /> </p>
 
 - 📖 Aprendiendo y fortaleciendo mis conocimientos en: **React, JS, PHP, MYSQL y Laravel**
