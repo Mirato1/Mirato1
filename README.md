@@ -5,7 +5,7 @@
 
 - 📖 Aprendiendo y fortaleciendo mis conocimientos en: **React, JS, PHP, MYSQL y Laravel**
 
-- 📫 Buscando trabajo **luquetti.5@hotmail.com**
+- 📫 Buscando trabajo **lucasn.gimenez20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
