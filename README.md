@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirato1&label=Profile%20views&color=0e75b6&style=flat" alt="mirato1" /> </p>
 
-- 📖 Aprendiendo y fortaleciendo mis conocimientos en: **React, JS, PHP, MYSQL y Laravel**
+- 📖 Aprendiendo y fortaleciendo mis conocimientos en: **React, JS, Node, Sql, MongoDb**
 
 - 📫 Buscando trabajo **lucasn.gimenez20@gmail.com**
 
