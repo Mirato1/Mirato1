@@ -1,11 +1,10 @@
 <h1 align="center">Hola soy Lucas Giménez</h1>
-<h3 align="center">Desarrollador y programador Web JR / Trainee</h3>
+<h3 align="center">Desarrollador Frontend JR </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirato1&label=Profile%20views&color=0e75b6&style=flat" alt="mirato1" /> </p>
 
 - 📖 Aprendiendo y fortaleciendo mis conocimientos en: **React, JS, Node, Sql, MongoDb**
 
-- 📫 Buscando trabajo **lucasn.gimenez20@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
