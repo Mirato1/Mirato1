@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirato1&label=Profile%20views&color=0e75b6&style=flat" alt="mirato1" /> </p>
 
-- 📖 Aprendiendo y fortaleciendo mis conocimientos en: **React, JS, Node, Sql, MongoDb**
+- 📖 Aprendiendo y fortaleciendo mis conocimientos en: **React, NextJs, Astro, UX, UI**
 
 
 <h3 align="left">Connect with me:</h3>
