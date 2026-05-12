@@ -1,47 +1,67 @@
-# Hi, I'm Lucas Giménez
-<h3>👨🏻‍💻 Frontend Developer</h3>
+<div align="center">
 
-<div style="display: flex; align-items: flex-start; justify-content: space-between;">
-  <div style="text-align: left;">
-    <img src="https://komarev.com/ghpvc/?username=mirato1&label=Profile%20views&color=0e75b6&style=flat" alt="mirato1" />
-  </div>
-  <div style="flex: 2; text-align: center;">
-    <div style="display:flex;" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mirato1&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=onedark&hide_border=true" height="150" alt="languages graph" />
-    <img src="https://streak-stats.demolab.com?user=Mirato1&locale=en&mode=weekly&theme=onedark&hide_border=true&border_radius=6" height="150" alt="streak graph" />
-    </div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mirato1&area=true&hide_border=true&theme=one-dark&hide_title=true&radius=6" height="260" alt="activity-graph graph" />
-  </div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Lucas+Gim%C3%A9nez+%F0%9F%91%8B;Frontend+Developer;Always+learning%2C+always+building" alt="Typing SVG" />
+</a>
+
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" alt="html5 logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" alt="css3 logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="javascript logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="typescript logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="react logo" />
-  <img width="14" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="36" alt="astro logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="nodejs logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="python logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="36" alt="csharp logo" />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="mysql logo" />
+### About me
+
+- 🎯 Frontend Developer focused on building clean, fast, accessible interfaces
+- 🛠️ Currently working with **React**, **NextJs** and **Astro**
+- 🌱 Exploring more on the backend side with **Node.js** and **Rust**
+- ⚡ I care about details: motion, performance and design that feels right
+
+---
+
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FF5D01" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+### GitHub Activity
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mirato1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
-<h3 align="left">Connect with me:</h3>
+<details>
+  <summary><b>📈 Activity graph</b></summary>
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mirato1&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
+</details>
 
-<div align="left">
+---
+
+### Connect with me
+
+<p>
   <a href="https://www.linkedin.com/in/lucasgim%C3%A9nez1054" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Mirato1" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<div align="center">
+  <sub>Thanks for stopping by ✨</sub>
 </div>
