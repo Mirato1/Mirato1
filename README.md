@@ -37,7 +37,7 @@
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mirato1&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=Mirato1&mode=weekly&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <details>
