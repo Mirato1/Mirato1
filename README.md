@@ -51,7 +51,7 @@
 ### Connect with me
 
 <p>
-  <a href="https://www.linkedin.com/in/lucasgim%C3%A9nez1054" target="_blank">
+  <a href="https://www.linkedin.com/in/lucasgim%C3%A9nez1054" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your.email@example.com">
