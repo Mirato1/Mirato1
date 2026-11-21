@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 510" width="840" height="510" role="img" aria-label="Lucas Giménez — character sheet">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0c0e13"/>
+      <stop offset="1" stop-color="#181b24"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f3dfa2"/>
+      <stop offset="1" stop-color="#b8893a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#3fe0b0" stop-opacity="0.2"/>
+      <stop offset="1" stop-color="#3fe0b0" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orb" cx="0.4" cy="0.35" r="0.7">
+      <stop offset="0" stop-color="#d6fff1"/>
+      <stop offset="0.45" stop-color="#3fe0b0"/>
+      <stop offset="1" stop-color="#0f6b55"/>
+    </radialGradient>
+    <filter id="blur" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+    <g id="fhole" fill="none" stroke="url(#gold)" stroke-width="3" stroke-linecap="round">
+      <path d="M 14 -40 C 0 -32, 0 -12, 7 0 C 14 12, 14 32, 0 40"/>
+      <path d="M 1 -2 L 13 2" stroke-width="2"/>
+      <circle cx="15" cy="-41" r="4" fill="url(#gold)" stroke="none"/>
+      <circle cx="-1" cy="41" r="4" fill="url(#gold)" stroke="none"/>
+    </g>
+    <path id="diamond" d="M 0 -6 L 6 0 L 0 6 L -6 0 Z" fill="url(#gold)"/>
+  </defs>
+
+  <!-- background -->
+  <rect width="840" height="510" rx="14" fill="url(#bg)"/>
+  <ellipse cx="420" cy="110" rx="330" ry="110" fill="url(#glow)">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="6s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- frame -->
+  <rect x="14" y="14" width="812" height="482" rx="6" fill="none" stroke="url(#gold)" stroke-width="1.5" opacity="0.9"/>
+  <rect x="21" y="21" width="798" height="468" rx="3" fill="none" stroke="url(#gold)" stroke-width="0.6" opacity="0.5"/>
+  <use href="#diamond" x="14" y="14"/>
+  <use href="#diamond" x="826" y="14"/>
+  <use href="#diamond" x="14" y="496"/>
+  <use href="#diamond" x="826" y="496"/>
+
+  <!-- violin f-holes -->
+  <use href="#fhole" transform="translate(88 100)" opacity="0.85"/>
+  <use href="#fhole" transform="translate(752 100) scale(-1 1)" opacity="0.85"/>
+
+  <!-- title -->
+  <text x="420" y="86" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="40" letter-spacing="9" fill="url(#gold)">LUCAS GIMÉNEZ</text>
+  <line x1="250" y1="106" x2="405" y2="106" stroke="url(#gold)" stroke-width="1" opacity="0.7"/>
+  <line x1="435" y1="106" x2="590" y2="106" stroke="url(#gold)" stroke-width="1" opacity="0.7"/>
+  <use href="#diamond" x="420" y="106"/>
+  <text x="420" y="134" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" letter-spacing="5" fill="#c9c3b2">FRONTEND SOURCERER  ·  VIOLINIST</text>
+
+  <!-- source points -->
+  <g>
+    <circle cx="392" cy="162" r="9" fill="#3fe0b0" filter="url(#blur)" opacity="0.7">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="420" cy="162" r="9" fill="#3fe0b0" filter="url(#blur)" opacity="0.7">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="448" cy="162" r="9" fill="#3fe0b0" filter="url(#blur)" opacity="0.7">
+      <animate attributeName="opacity" values="0.3;0.9;0.3" dur="3s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="392" cy="162" r="6" fill="url(#orb)"/>
+    <circle cx="420" cy="162" r="6" fill="url(#orb)"/>
+    <circle cx="448" cy="162" r="6" fill="url(#orb)"/>
+  </g>
+
+  <!-- narrator -->
+  <text x="420" y="204" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="14" font-style="italic" fill="#9a968a">You inspect the profile. It smells faintly of rosin and freshly compiled TypeScript.</text>
+
+  <!-- character sheet -->
+  <line x1="60" y1="226" x2="780" y2="226" stroke="url(#gold)" stroke-width="1" opacity="0.6"/>
+  <g stroke="#c9a45a" stroke-width="0.5" opacity="0.22">
+    <line x1="60" y1="272" x2="780" y2="272"/>
+    <line x1="60" y1="306" x2="780" y2="306"/>
+    <line x1="60" y1="340" x2="780" y2="340"/>
+    <line x1="60" y1="374" x2="780" y2="374"/>
+    <line x1="60" y1="408" x2="780" y2="408"/>
+    <line x1="60" y1="442" x2="780" y2="442"/>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="13" letter-spacing="2" fill="url(#gold)">
+    <text x="70" y="256">SUMMONING</text>
+    <text x="70" y="290">POLYMORPH</text>
+    <text x="70" y="324">AEROTHEURGE</text>
+    <text x="70" y="358">GEOMANCER</text>
+    <text x="70" y="392">TALENTS</text>
+    <text x="70" y="426">CIVIL ABILITY</text>
+    <text x="70" y="460">KNOWN WEAKNESS</text>
+  </g>
+  <g font-family="Georgia, 'Times New Roman', serif" font-size="16" fill="#d8d3c4">
+    <text x="270" y="256">React · Next.js — conjuring components on demand</text>
+    <text x="270" y="290">TypeScript — everything has a shape, and I will know it</text>
+    <text x="270" y="324">Astro — light, fast, barely any JS in the air</text>
+    <text x="270" y="358">Node.js · Rust — still digging, skill books half read</text>
+    <text x="270" y="392"><tspan font-style="italic">All Skilled Up</tspan> in motion and performance · <tspan font-style="italic">Pet Pal</tspan>, obviously</text>
+    <text x="270" y="426">Violin — persuasion checks go better with a soundtrack</text>
+    <text x="270" y="460">Rerolling a new run instead of finishing Act 2</text>
+  </g>
+</svg>
